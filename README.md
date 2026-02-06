@@ -7,7 +7,7 @@ Production-ready Retrieval-Augmented Generation (RAG) system for intelligent fin
 
 ---
 
-## 🎯 **Project Overview**
+##  **Project Overview**
 
 A scalable RAG system that enables natural language queries on financial documents:
 
@@ -18,7 +18,7 @@ A scalable RAG system that enables natural language queries on financial documen
 
 ---
 
-## 📊 **Dataset: SEC EDGAR**
+##  **Dataset: SEC EDGAR**
 
 **What is SEC EDGAR?**
 - U.S. government database of public company financial filings
@@ -33,7 +33,7 @@ A scalable RAG system that enables natural language queries on financial documen
 
 ---
 
-## ☁️ **Google Cloud Platform Setup**
+## **Google Cloud Platform Setup**
 
 ### **Resources Created:**
 
@@ -66,7 +66,7 @@ bq mk --location=US sec_filings_curated
 
 ---
 
-## 📁 **Project Structure**
+##  **Project Structure**
 ```
 microservices-rag-sec-filings/
 ├── README.md
@@ -118,7 +118,7 @@ python scripts/download_sec_data.py
 
 ---
 
-## 📚 **References**
+##  **References**
 
 - [SEC EDGAR Database](https://www.sec.gov/edgar)
 - [Google Cloud Storage Docs](https://cloud.google.com/storage/docs)
@@ -126,11 +126,11 @@ python scripts/download_sec_data.py
 
 ---
 
-## 👤 **Author**
+##  **Author**
 
 **Your Name**
 - Email: moulikavani225@gmail.com
 
 ---
 
-**Status:** 🚧 In Progress - Data Infrastructure Setup Complete
+**Status:**  In Progress - Data Infrastructure Setup Complete
